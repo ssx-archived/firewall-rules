@@ -1,0 +1,7 @@
+services:
+    - name        : Cloudflare
+      protocol    : ipv4
+      url 		  : https://www.cloudflare.com/ips-v4
+    - name        : Cloudflare
+      protocol    : ipv6
+      url 		  : https://www.cloudflare.com/ips-v6
