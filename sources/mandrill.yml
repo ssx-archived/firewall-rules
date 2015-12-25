@@ -1,0 +1,4 @@
+services:
+    - name        : Mandrill
+      protocol    : spf
+      target	  : spf.mandrillapp.com
